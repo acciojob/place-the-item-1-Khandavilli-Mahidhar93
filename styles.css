@@ -6,55 +6,52 @@
 	width: 50px;
 	height: 50px;
 	background-color: green;
+	padding: 20px;
+	box-sizing: border-box;
 }
 .b{
 	width: 50px;
 	height: 50px;
 	background-color: red;
+	padding: 20px;
+	box-sizing: border-box;
 }
 .c{
 	width: 50px;
 	height: 50px;
 	background-color: blue;
+	padding: 20px;
+	box-sizing: border-box;
 }
 
 .holder{
 	display: flex;
 	flex-wrap: wrap;
 }
-.q{
+.item{
+	justify-content: space-between;
 	width: 50px;
 	height: 50px;
 	background-color: green;
+	padding: 20px;
+	margin: 3px;
+	box-sizing: border-box;
 }
-.w{
-	width: 50px;
-	height: 50px;
-	background-color: green;
-}
-.e{
-	width: 50px;
-	height: 50px;
-	background-color: green;
-}
-.r{
-	width: 50px;
-	height: 50px;
-	background-color: green;
-}
-.t{
-	width: 50px;
-	height: 50px;
-	background-color: green;
-}
-.y{
+.item0{
+	justify-content: space-between;
 	width: 50px;
 	height: 50px;
 	background-color: red;
+	padding: 20px;
+	margin: 3px;
+	box-sizing: border-box;
 }
-.u{
+.item1{
+	justify-content: space-between;
 	width: 50px;
 	height: 50px;
 	background-color: blue;
+	padding: 20px;
+	margin: 3px;
+	box-sizing: border-box;
 }
-/* Your CSS Code here. */
