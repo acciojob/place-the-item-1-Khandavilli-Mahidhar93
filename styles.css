@@ -1,2 +1,60 @@
+.box{
+	display: flex;
+	justify-content: space-between;
+}
+.a{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.b{
+	width: 50px;
+	height: 50px;
+	background-color: red;
+}
+.c{
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+}
 
+.box0{
+	display: flex;
+	flex-wrap: wrap;
+}
+.q{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.w{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.e{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.r{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.t{
+	width: 50px;
+	height: 50px;
+	background-color: green;
+}
+.y{
+	width: 50px;
+	height: 50px;
+	background-color: red;
+}
+.u{
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+}
 /* Your CSS Code here. */
